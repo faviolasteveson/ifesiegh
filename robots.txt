@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://koukohhus.festberg.com/sitemap.xml
